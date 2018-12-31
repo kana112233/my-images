@@ -1,1 +1,1 @@
-FROM jenkins:lts
+from docker.io/jenkinsci/blueocean
